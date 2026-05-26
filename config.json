@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervelete",
+        "uuid": 809168,
+        "checksum": "u4h0d"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
